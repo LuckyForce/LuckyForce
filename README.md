@@ -1,5 +1,5 @@
 ### 👋 Hi there
-# My name is Adrian Schauer and this is my Github account.
+# My name is Adrian Schauer and this is my GitHub account.
 # To my website: https://adrian-schauer.at/
 # Here are few quick infos about me
 - 🔭 I’m currently working on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a>
