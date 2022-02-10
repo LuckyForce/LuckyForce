@@ -2,7 +2,7 @@
 # My name is Adrian Schauer and this is my GitHub account.
 # To my website: https://adrian-schauer.at/
 # Here are few quick infos about me
-- 🔭 I’m currently working on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a> and <a href="https://github.com/LuckyForce/ConsentManager">ConsentManager</a>
+- 🔭 I’m currently working primarily on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a> and <a href="https://github.com/LuckyForce/ConsentManager">ConsentManager</a>
 - 💪 I'm 6,2' tall and currently working out to achieve my best for not only coding.
 - 💻 I’m a full-stack developer with a passion for learning and creating.
 - 🌱 I’m currently learning lots of things like tailwind and react and I'm looking forward to even learn more libraries or frameworks like Laravel.
