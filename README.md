@@ -1,7 +1,11 @@
 ### 👋 Hi there
+
 # My name is Adrian Schauer and this is my GitHub account.
+
 # To my website: https://adrian-schauer.at/
+
 # Here are few quick infos about me
+
 - 🔭 I’m currently working primarily on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a> and <a href="https://github.com/LuckyForce/ConsentManager">ConsentManager</a>
 - 💪 I'm 6,2' tall and currently working out to achieve my best for not only coding.
 - 💻 I’m a full-stack developer with a passion for learning and creating.
@@ -10,3 +14,6 @@
 - 💬 Ask me about my projects. If you have any questions about why I wrote something specific in my code, feel free to contact me.
 - 📫 How to reach me: info@adrian-schauer.at
 - ⚡ Fun fact: In JS null == 0 and null > 0 is false but null >= 0 is true. That is because == compares the types and >= is a numeric operator and converts null to 0.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" />
