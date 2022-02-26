@@ -20,3 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" />
 </p>
+<p align="center">
+  <img src="https://wakatime.com/share/@f31bfd54-b2f6-4df1-ae00-b016797b2fbd/9c75b9b4-c80e-4bed-9e0b-574ac51bcf96.png" />
+</p>
