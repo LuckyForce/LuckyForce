@@ -14,9 +14,15 @@
 - 💬 Ask me about my projects. If you have any questions about why I wrote something specific in my code, feel free to contact me.
 - 📫 How to reach me: info@adrian-schauer.at
 - ⚡ Fun fact: In JS null == 0 and null > 0 is false but null >= 0 is true. That is because == compares the types and >= is a numeric operator and converts null to 0.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" />
-</a>
+<details>
+<summary>📖 Account Statistic</summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&theme=radical" />
+</p>
+</details>
+<details>
+<summary>📖 Language Statistic</summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" />
+</p>
+</details>
