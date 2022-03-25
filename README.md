@@ -15,6 +15,19 @@
 - 📫 How to reach me: info@adrian-schauer.at
 - ⚡ Fun fact: In JS null == 0 and null > 0 is false but null >= 0 is true. That is because == compares the types and >= is a numeric operator and converts null to 0.
 <div align="center">
+  <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">
+    <img
+      src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luckyforce.luckyforce&logo=github&style=for-the-badge&text=Views"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/github/followers/luckyforce?logo=github&style=for-the-badge"
+  />
+  <img
+    src="https://img.shields.io/github/stars/luckyforce?affiliations=COLLABORATOR&logo=github&style=for-the-badge"
+  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" height="170"/>
 </div>
