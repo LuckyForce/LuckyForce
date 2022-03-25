@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact" />
 </div>
 <a href="https://github.com/Platane/snk">
-  <img src="https://raw.githubusercontent.com/lukasl-dev/lukasl-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake.svg" />
 </a>
 <div align="center">
   <img src="https://wakatime.com/share/@f31bfd54-b2f6-4df1-ae00-b016797b2fbd/9c75b9b4-c80e-4bed-9e0b-574ac51bcf96.png" />
