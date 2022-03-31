@@ -6,7 +6,7 @@
 
 # Here are few quick infos about me
 
-- 🔭 I’m currently working primarily on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a> and <a href="https://github.com/LuckyForce/ConsentManager">ConsentManager</a>
+- 🔭 I’m currently working on <a href="https://github.com/LuckyForce/PyAsciiBattleship">PyAsciiBattleship</a> and <a href="https://github.com/LuckyForce/ConsentManager">ConsentManager</a> but primarily on some for now private projects for school.
 - 💻 I’m a full-stack developer with a passion for learning and creating.
 - 🌱 I’m currently learning lots of things like tailwind and react and I'm looking forward to learn even more libraries or frameworks like Laravel.
 - 👯 I’m looking to collaborate on new ideas on how I can make my own code better to improve my own knowledge.
