@@ -24,8 +24,8 @@
   />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&count_private=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact&langs_count=10&theme=radical" height="170"/>
 </div>
 <a href="https://github.com/Platane/snk">
   <img src="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake.svg" />
