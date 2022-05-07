@@ -1,5 +1,3 @@
-### 👋 Hi there
-
 # My name is Adrian Schauer
 
 # To my website: https://adrian-schauer.at/
