@@ -2,8 +2,6 @@
 
 # To my website: https://adrian-schauer.at/
 
-# Here are few quick infos about me
-
 - 🔭 I’m currently working on some for now private projects for school.
 - 💻 I’m a full-stack developer with a passion for learning and creating.
 - 🌱 I’m currently learning lots of things like Laravel Vue and Angular. I'm also looking forward to learn even more libraries or frameworks in the direction of Artificial Intelligence and more for backend like ASP.NET Core and Node.js.
