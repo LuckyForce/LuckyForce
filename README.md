@@ -1,31 +1,42 @@
-# My name is Adrian Schauer
+# Hi, I'm Adrian 👋
 
-# To my website: https://adrian-schauer.at/
+Full-stack developer from Austria, studying **Digital Economy** at **WU Wien** and **TU Wien**. I started out coding at an HTL for informatics and have been building web and mobile apps ever since.
 
-- 🔭 I’m currently working on some for now private projects for school.
-- 💻 I’m a full-stack developer with a passion for learning and creating.
-- 🌱 I’m currently learning lots of things like Laravel Vue and Angular. I'm also looking forward to learn even more libraries or frameworks in the direction of Artificial Intelligence and more for backend like ASP.NET Core and Node.js.
-- 👯 I’m looking to collaborate on new ideas on how I can make my own code better to improve my own knowledge.
-- 💬 Ask me about my projects. If you have any questions about why I wrote something specific in my code, feel free to contact me.
+- 🎓 At university I work where software engineering meets business.
+- 🌱 Lately I've been getting deeper into Python for data analysis.
+- 💬 Ask me about any of my projects, or why I wrote a piece of code the way I did.
 - 📫 How to reach me: info@adrian-schauer.at
+
+## 🛠️ Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,express,python,php,laravel,java,cs,postgres,docker,git" alt="TypeScript, JavaScript, Vue, Node.js, Express, Python, PHP, Laravel, Java, C#, PostgreSQL, Docker, Git" />
+</p>
+
+## 📦 Earlier projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Logic-Riddle](https://github.com/LuckyForce/Logic-Riddle) | Evaluate logic expressions, or create and solve logic riddles | PHP |
+| [EasyLang](https://github.com/LuckyForce/EasyLang) | Lightweight library to scale and manage multilingual websites | JavaScript |
+| [ShareList](https://github.com/LuckyForce/ShareList) | A list that is easy to share | Vue |
+| [Sandbox-JavaFX-Game](https://github.com/LuckyForce/Sandbox-JavaFX-Game) | Sandbox game built as an HTL school project | Java |
+| [TicTacToe](https://github.com/LuckyForce/TicTacToe) | TicTacToe with a built-in algorithm that never loses | Java |
+
+## 📈 Stats
+
 <div align="center">
-  <img
-    src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luckyforce.luckyforce&logo=github&style=for-the-badge&text=Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/luckyforce?logo=github&style=for-the-badge"
-  />
-  <img
-    src="https://img.shields.io/github/stars/luckyforce?logo=github&style=for-the-badge"
-  />
+  <img src="https://komarev.com/ghpvc/?username=luckyforce&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/luckyforce?logo=github&style=for-the-badge" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/luckyforce?logo=github&style=for-the-badge" alt="GitHub stars" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyforce&show_icons=true&count_private=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyforce&layout=compact&langs_count=10&theme=radical" height="170"/>
-</div>
-<a href="https://github.com/Platane/snk">
-  <img src="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake.svg" />
-</a>
-<div align="center">
-  <img src="https://wakatime.com/share/@f31bfd54-b2f6-4df1-ae00-b016797b2fbd/9c75b9b4-c80e-4bed-9e0b-574ac51bcf96.png" />
-</div>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake.svg" />
+      <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/luckyforce/luckyforce/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
+</p>
